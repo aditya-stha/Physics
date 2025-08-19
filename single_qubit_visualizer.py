@@ -72,7 +72,7 @@ def main():
 
     while True:
         cmd = input("Enter gate: ").strip().lower()
-        if cmd == "done":
+        if cmd == "N":
             break
 
         parts = cmd.split()
