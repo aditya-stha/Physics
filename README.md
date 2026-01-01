@@ -1,5 +1,5 @@
-# Qiskit
-repository for my qiskit projects
+# Physics
+repository for my Physics projects
 
 
 single_qubit_visualizer:
