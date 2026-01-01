@@ -49,3 +49,32 @@ Install dependencies:
 
 bash
 pip install qiskit matplotlib numpy
+
+Path Variation and Action Surface Visualization:
+
+This simulation demonstrates classical and varied paths in a simple system, allowing exploration of action variations in the context of classical mechanics.
+---
+Features:
+Classical path between two boundary points.
+Two variation functions f1(t) and f2(t) for path perturbations.
+Interactive sliders to adjust coefficients of variations (a, b).
+2D plot of path variations over time.
+2D parameter space showing action S(a, b) and selected variation.
+3D action surface with ΔS visualization.
+Particle animation along the current path.
+Click on parameter space to update sliders interactively.
+Key Concepts
+Classical path and action minimization.
+Parameter space effects on trajectory.
+Visual intuition for variation of paths in mechanics.
+
+Explore position-space and momentum-space probability distributions of a Gaussian wave packet:
+---
+Position-space |ψ(x)|² and momentum-space |ψ(p)|² visualizations.
+Interactive slider to adjust the width σ of the Gaussian.
+Real-time update of probability distributions as σ changes.
+Demonstrates Heisenberg uncertainty principle qualitatively.
+Key Concepts:
+Relationship between localization in position and momentum space.
+Visualization of quantum uncertainty principle.
+Real-time exploration of wave packet dynamics.
